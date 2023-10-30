@@ -1,0 +1,65 @@
+{
+    "user": {
+        "_id" : "No Records",
+        "device" : {
+            "brand" : "No Records",
+            "model" : "No Records",
+            "version" : "No Records",
+            "uniqueId" : "No Records",
+            "dateCreated" : "No Records"
+        },
+        "wallet" : {
+            "balance" : 0,
+            "lastUpdate" : "No Records",
+            "transferDate" : "No Records"
+        },
+        "redeem" : {
+            "balance" : 0,
+            "deposit" : 0,
+            "lastUpdate" : "No Records"
+        },
+        "programme" : {
+            "data" : false,
+            "airtime" : false,
+            "electricity" : false,
+            "fastFood" : false,
+            "groceries" : false,
+            "clothing" : false,
+            "cash" : false
+        },
+        "interest" : {
+            "selected" : "No Records",
+            "data" : [
+                "No Records"
+            ]
+        },
+        "session" : {
+            "counter" : 3,
+            "cycle_count" : 21,
+            "ads_counter" : 1,
+            "lastUpdate" : "No Records"
+        },
+        "status" : "No Records",
+        "void" : 1,
+        "phone" : 270000000000.0,
+        "email" : "No Records",
+        "gender" : "No Records",
+        "age" : "No Records",
+        "password" : "No Records",
+        "country" : "No Records",
+        "token" : "No Records",
+        "lockscreen" : true,
+        "dateCreated" : "No Records",
+        "viewed" : [],
+        "transaction" : [],
+        "location" : {
+            "city" : "No Records",
+            "lastUpdate" : "No Records",
+            "latitude" : "No Records",
+            "longitude" : "No Records",
+            "region" : "No Records",
+            "suburb" : "No Records"
+        }
+    }
+
+}

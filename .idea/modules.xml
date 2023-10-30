@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../iStudy/.idea/iStudy.iml" filepath="$PROJECT_DIR$/../iStudy/.idea/iStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/istudy-console.iml" filepath="$PROJECT_DIR$/.idea/istudy-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../istudy-server/.idea/istudy-server.iml" filepath="$PROJECT_DIR$/../istudy-server/.idea/istudy-server.iml" />
+    </modules>
+  </component>
+</project>
