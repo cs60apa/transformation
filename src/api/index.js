@@ -1,6 +1,6 @@
-// const API_URL = 'https://api.zstudy.co/admin';
+const API_URL = 'https://api.zstudy.co/admin';
 // const API_URL = 'https://server.test.zstudy.co/admin';
- const API_URL = 'http://127.0.0.1:6002/admin';
+//  const API_URL = 'http://127.0.0.1:6002/admin';
 
 exports.SIGNIN_URL = `${API_URL}/core-sign-in`;
  exports.GET_USER_REPORT_URL = `${API_URL}/user-report`;
