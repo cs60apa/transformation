@@ -5,8 +5,7 @@ import jwt_decode from 'jwt-decode';
 import setAuthToken from './utils/setAuthToken';
 import { logoutUser } from './request';
 import {SET_AUTH_USER} from './stores/auth';
-// import Private from "./components/routes/Private";
-import Dashboard from './pages/authorized/Dashboard';
+import Private from "./components/routes/Private";
 import Logout from "./pages/auth/Logout";
 import { Provider } from 'react-redux';
 import 'bootstrap';
@@ -43,9 +42,7 @@ class App extends Component {
                         <Switch>
                             <Route exact path="/" component={Login} />
                             <Route exact path="/logout" component={Logout} />
-                            {/* <Route component={Private} /> */}
-                            <Route exact path="/dashboard" component={Dashboard} />
-                            
+                            <Route component={Private} />
                         </Switch>
                     </div>
                 </Router>
